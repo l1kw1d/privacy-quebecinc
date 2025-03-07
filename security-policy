@@ -1,0 +1,97 @@
+📜 Politique de Sécurité et de Divulgation Responsable – Bunkers Cyber Défense
+
+Version 1.0 – Dernière mise à jour : 7 Mars 2025
+📌 Introduction
+
+Chez Bunkers Cyber Défense, la sécurité de l’information est au cœur de nos préoccupations. Nous comprenons que la cybersécurité ne se limite pas à un simple enjeu technique : c’est un pilier fondamental pour protéger nos partenaires, clients et infrastructures contre les menaces grandissantes.
+
+Notre politique de sécurité définit les mesures mises en place pour garantir la confidentialité, l’intégrité et la disponibilité des données, ainsi que notre engagement envers la divulgation responsable des vulnérabilités.
+
+Cette politique s’adresse aux chercheurs en sécurité, clients, employés et partenaires, en leur fournissant un cadre structuré et des bonnes pratiques à suivre.
+1️⃣ Portée de la Politique
+
+Cette politique s’applique à :
+✅ Nos infrastructures IT & services web (bunkers.co, ses sous-domaines et services affiliés).
+✅ Nos API & solutions de cybersécurité en développement.
+✅ Les systèmes et réseaux sous notre gestion (clients sous contrat avec autorisation préalable uniquement).
+✅ Nos projets d’intelligence artificielle et d’agents de cybersécurité autonomes.
+✅ Notre SOC et nos services de surveillance des menaces (XDR, DLP, IAM, SIEM, etc.).
+
+⚠️ Ce que cette politique NE couvre PAS :
+❌ Tests non autorisés sur les services tiers hébergés sur nos plateformes.
+❌ Exfiltration de données réelles ou interruption des services en production.
+❌ Ingénierie sociale contre nos employés ou clients.
+2️⃣ Cadre de Sécurité et Conformité
+
+Nous nous alignons sur les normes de cybersécurité les plus strictes, notamment :
+✔️ ISO 27001 (Gestion de la Sécurité de l’Information)
+✔️ NIST 800-53 (Framework de Sécurité des Systèmes d’Information)
+✔️ SOC 2 Type II (Contrôles de sécurité pour services en cloud)
+✔️ RGPD / Loi 25 (Protection des données personnelles et conformité légale)
+✔️ PCI DSS (Sécurité des transactions et paiements électroniques)
+✔️ MITRE ATT&CK (Framework de classification des tactiques et techniques d’attaque)
+
+Nos services sont conçus pour offrir des solutions avancées de cybersécurité tout en garantissant la conformité aux réglementations en vigueur.
+3️⃣ Divulgation Responsable des Vulnérabilités
+
+Bunkers Cyber Défense encourage activement la divulgation responsable des vulnérabilités découvertes sur nos services et produits.
+🔍 3.1 Procédure de Signalement
+
+Tout chercheur souhaitant signaler une vulnérabilité doit :
+📩 Envoyer un rapport chiffré via PGP à security@bunkers.co (Clé publique : [Lien ici])
+🎯 Décrire avec précision la vulnérabilité :
+
+    Catégorie (XSS, SQLi, RCE, etc.)
+    Impact et scénarios d’exploitation
+    Étapes de reproduction (PoC si possible)
+    ⏳ Attendre une réponse avant toute publication publique.
+
+🔒 3.2 Notre Engagement
+
+✔️ Accusé de réception sous 72h après signalement.
+✔️ Analyse et correction prioritaire selon la criticité.
+✔️ Communication transparente sur l’état d’avancement du correctif.
+✔️ Reconnaissance publique (Hall of Fame) pour les chercheurs qui respectent cette politique.
+
+⚠️ Ce qui n’est PAS autorisé :
+❌ Exploitation active des vulnérabilités en production.
+❌ Exfiltration de données sensibles.
+❌ Rançonnage ou chantage pour divulgation.
+4️⃣ Protection des Données et Sécurité Opérationnelle
+4.1 Surveillance des Menaces et SOC
+
+Bunkers Cyber Défense exploite un Security Operations Center (SOC) avancé, alimenté par :
+✔️ SIEM & Threat Intelligence : Détection et corrélation d’événements de sécurité en temps réel.
+✔️ XDR (Extended Detection & Response) : Protection avancée contre les menaces persistantes.
+✔️ Surveillance du Dark Web & Analyse de Compromission.
+4.2 Mesures de Protection Déployées
+
+✅ Chiffrement des données sensibles (AES-256, TLS 1.3, PGP/GPG)
+✅ Segmentation réseau stricte & Zero Trust Architecture (ZTA)
+✅ Authentification forte & MFA sur tous les accès critiques
+✅ Audit de sécurité continu et Red Team exercises réguliers
+5️⃣ Responsabilités et Obligations des Utilisateurs
+
+Tous les employés, partenaires et clients doivent respecter les principes suivants :
+
+🔹 Utilisation des accès et identifiants avec précaution.
+🔹 Respect des procédures de sécurité et des politiques internes.
+🔹 Ne pas divulguer d’informations sensibles à des tiers sans autorisation.
+🔹 Suivre les formations en cybersécurité obligatoires.
+
+Le non-respect de ces règles peut entraîner des sanctions disciplinaires ou juridiques.
+6️⃣ Contacts & Clé PGP
+
+📧 Email de contact : security@bunkers.co
+🔑 Clé publique PGP : https://privacy.bunkers.co/security-pgp-key.txt
+🌐 Politique de sécurité : https://bunkers.co/security-policy
+7️⃣ Hall of Fame et Remerciements
+
+Nous remercions tous les chercheurs et experts contribuant à améliorer la sécurité de nos systèmes.
+🔗 Page des contributions : [Lien vers bunkers.co/security-thanks]
+8️⃣ Révisions et Mise à Jour de la Politique
+
+Cette politique est régulièrement mise à jour pour s’adapter aux nouvelles menaces et aux évolutions réglementaires.
+
+📌 Dernière mise à jour : 7 Mars 2025
+📜 Version actuelle : 1.0
