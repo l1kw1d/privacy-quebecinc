@@ -38,7 +38,7 @@ Bunkers Cyber Défense encourage activement la divulgation responsable des vuln�
 🔍 3.1 Procédure de Signalement
 
 Tout chercheur souhaitant signaler une vulnérabilité doit :
-📩 Envoyer un rapport chiffré via PGP à security@bunkers.co (Clé publique : [Lien ici])
+📩 Envoyer un rapport chiffré via PGP à security@bunkers.co (Clé publique : https://privacy.bunkers.co/security-pgp-key.txt)
 🎯 Décrire avec précision la vulnérabilité :
 
     Catégorie (XSS, SQLi, RCE, etc.)
